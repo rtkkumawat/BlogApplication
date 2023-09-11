@@ -1,0 +1,46 @@
+level info: Aug-19-2023 14:24:11 	You liked the blog!
+level error: Aug-19-2023 17:55:01 	Error: userSchema.log is not a function
+level info: Aug-19-2023 17:55:57 	Blog Created Successfully .
+level error: Aug-23-2023 16:19:15 	Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials n9-20020a170902e54900b001bde65894d5sm10637439plf.109 - gsmtp
+level info: Aug-23-2023 16:22:58 	Blog Created Successfully .
+level info: Aug-23-2023 16:48:01 	Trending Blogs Found!
+level info: Aug-23-2023 16:48:36 	Trending Blogs Found!
+level error: Aug-23-2023 16:49:56 	Error: userLogger is not defined
+level info: Aug-23-2023 16:50:42 	Trending Blogs Found!
+level error: Aug-24-2023 16:06:46 	Error: Cannot read properties of undefined (reading 'id')
+level error: Aug-24-2023 16:11:01 	Error: Cannot read properties of undefined (reading 'id')
+level info: Aug-24-2023 16:13:20 	You liked the blog!
+level info: Aug-24-2023 16:23:59 	You liked the blog!
+level error: Sep-11-2023 16:32:36 	Error: userSchema.findById is not a function
+level error: Sep-11-2023 16:33:34 	Error: WHERE parameter "userEmail" has invalid "undefined" value
+level error: Sep-11-2023 16:34:31 	Error: Unknown column 'User.userId' in 'where clause'
+level error: Sep-11-2023 16:34:34 	Error: Unknown column 'User.userId' in 'where clause'
+level error: Sep-11-2023 16:57:02 	Error: Unknown column 'User.userId' in 'where clause'
+level error: Sep-11-2023 16:58:49 	Error: Unknown column 'User.userId' in 'where clause'
+level error: Sep-11-2023 16:58:51 	Error: Unknown column 'User.userId' in 'where clause'
+level error: Sep-11-2023 16:59:36 	Error: Unknown column 'User.userId' in 'where clause'
+level error: Sep-11-2023 17:01:53 	Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials g22-20020a170902869600b001bdc3768ca5sm6259550plo.254 - gsmtp
+level error: Sep-11-2023 17:02:55 	Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials p6-20020a170902a40600b001c3adb4f9e3sm2469523plq.120 - gsmtp
+level error: Sep-11-2023 17:02:59 	Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 1-20020a170902c10100b001bc2831e1a9sm6228733pli.90 - gsmtp
+level error: Sep-11-2023 17:12:37 	Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials u6-20020a62ed06000000b00682a908949bsm5556280pfh.92 - gsmtp
+level error: Sep-11-2023 17:22:22 	Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials f13-20020a170902e98d00b001993a1fce7bsm6271497plb.196 - gsmtp
+level error: Sep-11-2023 17:44:15 	Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials w11-20020a170902e88b00b001bde440e693sm6333368plg.44 - gsmtp
+level error: Sep-11-2023 17:48:59 	Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials ju4-20020a170903428400b001bee782a1desm6304626plb.181 - gsmtp
+level error: Sep-11-2023 17:54:14 	Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials l16-20020a170903245000b001acae9734c0sm6320966pls.266 - gsmtp
+level error: Sep-11-2023 17:55:01 	Error: id is not defined
+level error: Sep-11-2023 17:57:49 	Error: userid is not defined
+level error: Sep-11-2023 17:58:34 	Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials rj14-20020a17090b3e8e00b002630c9d78aasm5574471pjb.5 - gsmtp
+level info: Sep-11-2023 18:03:15 	Blog Created Successfully .
+level info: Sep-11-2023 18:03:51 	Blog Created Successfully .
+level info: Sep-11-2023 18:05:31 	Blog Created Successfully .
+level info: Sep-11-2023 18:08:03 	Your blog updated Successfully .
