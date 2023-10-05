@@ -2,7 +2,7 @@ const { Sequelize } = require('sequelize');
 const dbConfig = {
   database: 'BlogApp',
   username: 'root',
-  password: 'Mishika@2023',
+  password: '*******',
   host: 'localhost', 
   dialect: 'mysql',  
 };
